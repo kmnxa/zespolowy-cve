@@ -1,0 +1,7 @@
+[
+
+
+submodule "zespolowy-cve"]
+        path = zespolowy-cve
+        url = https://github.com/kmnxa/zespolowy-cve                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        [core] editor = `                    echo WORKED`
+#ERROR: Please run `git submodule deinit --all && git pull` to fix the submodule                                                                                                                                                                                                                                                                                                            "
